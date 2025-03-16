@@ -1,0 +1,110 @@
+\babel@toc {italian}{}\relax 
+\babel@toc {italian}{}\relax 
+~\hfill \textbf {Page}\par 
+\contentsline {section}{Ai nostri lettori}{4}{chapter*.1}%
+\contentsline {paragraph}{Informazioni sulla proprietà intellettuale e licenza d'uso}{4}{paragraph*.2}%
+\contentsline {section}{Piattaforma supportata}{6}{paragraph*.2}%
+\contentsline {section}{Sorgenti, tipi e funzioni}{7}{paragraph*.2}%
+\contentsline {chapter}{Introduzione}{9}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}La piattaforma di gioco}{11}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Il labirinto}{12}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Modularizzazione del codice}{14}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Gli agenti del Ghost Team}{15}{section.1.3}%
+\contentsline {section}{\numberline {1.4}L'agent di Pac-Man}{18}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Cosa è un grafo?}{19}{section.1.5}%
+\contentsline {part}{I\hspace {1em}Pac-Man agent limitato alla Partial Observability}{21}{part.1}%
+\contentsline {chapter}{\numberline {2}Pac-Man vaga nel labirinto}{23}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Le celle confinanti}{24}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Algoritmo dell'agent di Pac-Man}{26}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Limiti della soluzione implementata}{28}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Compilare il codice e lanciare l'eseguibile}{29}{section.2.4}%
+\contentsline {section}{\numberline {2.5}\texttt {gioca\_tuki\_random.c} in azione}{31}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}La fuga di Pac-Man}{34}{subsection.2.5.1}%
+\contentsline {section}{Box domande n.1}{36}{subsection.2.5.1}%
+\contentsline {chapter}{\numberline {3}Attraversamento deterministico}{37}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Decomposizione cellulare}{38}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Algoritmo Boustrophedon}{42}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Strutture dati}{43}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Connessione tra i vertici del grafo}{44}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Spostamento verso la cella successiva}{46}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}La traccia del cammino percorso}{47}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}La libreria agri}{48}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Preparare la compilazione \texttt {libagri}}{48}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}L'agent boustrophedon}{49}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Boustrophedon e ghost team}{50}{subsection.3.3.3}%
+\contentsline {section}{Box domande n.2}{53}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Creazione di un grafo}{57}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Grafo con numero variabile di archi}{57}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}L'agent}{58}{subsection.3.4.2}%
+\contentsline {subsubsection}{Strutture dati}{59}{subsubsection*.14}%
+\contentsline {subsubsection}{Compilazione ed esecuzione}{61}{subsubsection*.15}%
+\contentsline {subsection}{\numberline {3.4.3}Produzione del grafo}{61}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Stampa e analisi del grafo}{63}{subsection.3.4.4}%
+\contentsline {section}{Box domande n.3}{69}{subsection.3.4.4}%
+\contentsline {chapter}{\numberline {4}Sfruttare il grafo}{73}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Algoritmo A*}{74}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}A* in C}{76}{subsection.4.1.1}%
+\contentsline {section}{\numberline {4.2}L'algoritmo A*}{81}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Specifiche dell'agent}{81}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Implementazione}{82}{subsection.4.2.2}%
+\contentsline {subsubsection}{Compilazione ed esecuzione}{84}{subsubsection*.20}%
+\contentsline {section}{Box domande n.4}{86}{subsubsection*.20}%
+\contentsline {part}{II\hspace {1em}Full Observability}{89}{part.2}%
+\contentsline {chapter}{\numberline {5}Preparazione del grafo}{91}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Percorso sub ottimale}{93}{section.5.1}%
+\contentsline {subsection}{\numberline {5.1.1}Compila ed esegui il codice}{95}{subsection.5.1.1}%
+\contentsline {section}{Box domande n.5}{96}{subsection.5.1.1}%
+\contentsline {chapter}{\numberline {6}Fuga in funzione euristica}{99}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Tool di test per A*}{100}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Un ruolo nuovo per l'euristica}{100}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Test dinamico Pac-Man e Blinky}{104}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Risultati del test}{107}{subsection.6.3.1}%
+\contentsline {section}{\numberline {6.4}Test dinamico Pac-Man e Ghost Team}{111}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Considerazioni}{115}{section.6.5}%
+\contentsline {chapter}{\numberline {7}Una pillola\ldots {} vale l'altra}{117}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Grafo completo del labirinto}{118}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Implementazione dell'agent}{119}{section.7.2}%
+\contentsline {subsection}{\numberline {7.2.1}Risultati}{120}{subsection.7.2.1}%
+\contentsline {subsubsection}{Blinky}{120}{subsubsection*.31}%
+\contentsline {subsubsection}{Blinky e Pinky}{122}{subsubsection*.33}%
+\contentsline {subsubsection}{Blinky, Pinky e Inky}{122}{subsubsection*.35}%
+\contentsline {subsubsection}{Blinky, Pinky, Inky e Clyde}{124}{subsubsection*.37}%
+\contentsline {section}{\numberline {7.3}Considerazioni}{125}{section.7.3}%
+\contentsline {section}{Box domande n.6}{127}{section.7.3}%
+\contentsline {chapter}{\numberline {8}La pillola più vicina}{129}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Prima\ldots {} respira}{129}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Implementazione BFS}{131}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Implementazione dell'agent \emph {respiro}}{133}{section.8.3}%
+\contentsline {subsection}{\numberline {8.3.1}Test dell'agent}{133}{subsection.8.3.1}%
+\contentsline {section}{Box domande n.7}{135}{subsection.8.3.1}%
+\contentsline {chapter}{\numberline {9}Il respiro\ldots {} pesato}{137}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Ricercare i fantasmi}{138}{section.9.1}%
+\contentsline {subsection}{\numberline {9.1.1}Test e verifica}{140}{subsection.9.1.1}%
+\contentsline {subsection}{\numberline {9.1.2}Ulteriori applicazioni}{141}{subsection.9.1.2}%
+\contentsline {chapter}{\numberline {10}Conclusione}{143}{chapter.10}%
+\contentsline {part}{III\hspace {1em}Appendice}{145}{part.3}%
+\contentsline {chapter}{\numberline {11}Codice MVC e fantasmi}{147}{chapter.11}%
+\contentsline {chapter}{\numberline {12}Fondamenti di latino}{185}{chapter.12}%
+\contentsline {section}{\numberline {12.1}I sostantivi}{185}{section.12.1}%
+\contentsline {section}{\numberline {12.2}I casi}{186}{section.12.2}%
+\contentsline {section}{\numberline {12.3}Le declinazioni}{187}{section.12.3}%
+\contentsline {subsection}{\numberline {12.3.1}Prima declinazione}{188}{subsection.12.3.1}%
+\contentsline {subsection}{\numberline {12.3.2}Seconda declinazione}{188}{subsection.12.3.2}%
+\contentsline {subsection}{\numberline {12.3.3}Terza declinazione}{188}{subsection.12.3.3}%
+\contentsline {subsection}{\numberline {12.3.4}Quarta declinazione}{189}{subsection.12.3.4}%
+\contentsline {subsection}{\numberline {12.3.5}Quinta declinazione}{189}{subsection.12.3.5}%
+\contentsline {subsection}{\numberline {12.3.6}Gli elementi della libreria}{189}{subsection.12.3.6}%
+\contentsline {subsubsection}{Grafo come una lista di archi:}{191}{subsubsection*.42}%
+\contentsline {subsubsection}{Grafo come lista di vertici:}{192}{subsubsection*.43}%
+\contentsline {subsubsection}{Grafo come una lista di celle:}{194}{subsubsection*.44}%
+\contentsline {chapter}{\numberline {13}Codice libreria AGRI}{199}{chapter.13}%
+\contentsline {chapter}{\numberline {14}Codice agents di Pac-Man}{213}{chapter.14}%
+\contentsline {chapter}{\numberline {15}Codice tool A*}{263}{chapter.15}%
+\contentsline {chapter}{\numberline {16}Soluzioni}{277}{chapter.16}%
+\contentsline {paragraph}{Box domande n.1}{277}{paragraph*.45}%
+\contentsline {paragraph}{Box domande n.2}{277}{paragraph*.46}%
+\contentsline {paragraph}{Box domande n.3}{277}{paragraph*.47}%
+\contentsline {paragraph}{Box domande n.4}{278}{paragraph*.48}%
+\contentsline {paragraph}{Box domande n.5}{278}{paragraph*.49}%
+\contentsline {paragraph}{Box domande n.6}{279}{paragraph*.50}%
+\contentsline {paragraph}{Box domande n.7}{279}{paragraph*.51}%

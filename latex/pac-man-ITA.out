@@ -1,0 +1,89 @@
+\BOOKMARK [1][-]{chapter*.1}{Ai nostri lettori}{}% 1
+\BOOKMARK [1][-]{paragraph*.2}{Piattaforma supportata}{}% 2
+\BOOKMARK [1][-]{paragraph*.2}{Sorgenti, tipi e funzioni}{}% 3
+\BOOKMARK [0][-]{chapter*.3}{Introduzione}{}% 4
+\BOOKMARK [0][-]{chapter.1}{La piattaforma di gioco}{}% 5
+\BOOKMARK [1][-]{section.1.1}{Il labirinto}{chapter.1}% 6
+\BOOKMARK [1][-]{section.1.2}{Modularizzazione del codice}{chapter.1}% 7
+\BOOKMARK [1][-]{section.1.3}{Gli agenti del Ghost Team}{chapter.1}% 8
+\BOOKMARK [1][-]{section.1.4}{L'agent di Pac-Man}{chapter.1}% 9
+\BOOKMARK [1][-]{section.1.5}{Cosa \350 un grafo?}{chapter.1}% 10
+\BOOKMARK [-1][-]{part.1}{I Pac-Man agent limitato alla Partial Observability}{}% 11
+\BOOKMARK [0][-]{chapter.2}{Pac-Man vaga nel labirinto}{part.1}% 12
+\BOOKMARK [1][-]{section.2.1}{Le celle confinanti}{chapter.2}% 13
+\BOOKMARK [1][-]{section.2.2}{Algoritmo dell'agent di Pac-Man}{chapter.2}% 14
+\BOOKMARK [1][-]{section.2.3}{Limiti della soluzione implementata}{chapter.2}% 15
+\BOOKMARK [1][-]{section.2.4}{Compilare il codice e lanciare l'eseguibile}{chapter.2}% 16
+\BOOKMARK [1][-]{section.2.5}{gioca\137tuki\137random.c in azione}{chapter.2}% 17
+\BOOKMARK [2][-]{subsection.2.5.1}{La fuga di Pac-Man}{section.2.5}% 18
+\BOOKMARK [1][-]{subsection.2.5.1}{Box domande n.1}{chapter.2}% 19
+\BOOKMARK [0][-]{chapter.3}{Attraversamento deterministico}{part.1}% 20
+\BOOKMARK [1][-]{section.3.1}{Decomposizione cellulare}{chapter.3}% 21
+\BOOKMARK [1][-]{section.3.2}{Algoritmo Boustrophedon}{chapter.3}% 22
+\BOOKMARK [2][-]{subsection.3.2.1}{Strutture dati}{section.3.2}% 23
+\BOOKMARK [2][-]{subsection.3.2.2}{Connessione tra i vertici del grafo}{section.3.2}% 24
+\BOOKMARK [2][-]{subsection.3.2.3}{Spostamento verso la cella successiva}{section.3.2}% 25
+\BOOKMARK [2][-]{subsection.3.2.4}{La traccia del cammino percorso}{section.3.2}% 26
+\BOOKMARK [1][-]{section.3.3}{La libreria agri}{chapter.3}% 27
+\BOOKMARK [2][-]{subsection.3.3.1}{Preparare la compilazione libagri}{section.3.3}% 28
+\BOOKMARK [2][-]{subsection.3.3.2}{L'agent boustrophedon}{section.3.3}% 29
+\BOOKMARK [2][-]{subsection.3.3.3}{Boustrophedon e ghost team}{section.3.3}% 30
+\BOOKMARK [1][-]{subsection.3.3.3}{Box domande n.2}{chapter.3}% 31
+\BOOKMARK [1][-]{section.3.4}{Creazione di un grafo}{chapter.3}% 32
+\BOOKMARK [2][-]{subsection.3.4.1}{Grafo con numero variabile di archi}{section.3.4}% 33
+\BOOKMARK [2][-]{subsection.3.4.2}{L'agent}{section.3.4}% 34
+\BOOKMARK [2][-]{subsection.3.4.3}{Produzione del grafo}{section.3.4}% 35
+\BOOKMARK [2][-]{subsection.3.4.4}{Stampa e analisi del grafo}{section.3.4}% 36
+\BOOKMARK [1][-]{subsection.3.4.4}{Box domande n.3}{chapter.3}% 37
+\BOOKMARK [0][-]{chapter.4}{Sfruttare il grafo}{part.1}% 38
+\BOOKMARK [1][-]{section.4.1}{Algoritmo A*}{chapter.4}% 39
+\BOOKMARK [2][-]{subsection.4.1.1}{A* in C}{section.4.1}% 40
+\BOOKMARK [1][-]{section.4.2}{L'algoritmo A*}{chapter.4}% 41
+\BOOKMARK [2][-]{subsection.4.2.1}{Specifiche dell'agent}{section.4.2}% 42
+\BOOKMARK [2][-]{subsection.4.2.2}{Implementazione}{section.4.2}% 43
+\BOOKMARK [1][-]{subsubsection*.20}{Box domande n.4}{chapter.4}% 44
+\BOOKMARK [-1][-]{part.2}{II Full Observability}{}% 45
+\BOOKMARK [0][-]{chapter.5}{Preparazione del grafo}{part.2}% 46
+\BOOKMARK [1][-]{section.5.1}{Percorso sub ottimale}{chapter.5}% 47
+\BOOKMARK [2][-]{subsection.5.1.1}{Compila ed esegui il codice}{section.5.1}% 48
+\BOOKMARK [1][-]{subsection.5.1.1}{Box domande n.5}{chapter.5}% 49
+\BOOKMARK [0][-]{chapter.6}{Fuga in funzione euristica}{part.2}% 50
+\BOOKMARK [1][-]{section.6.1}{Tool di test per A*}{chapter.6}% 51
+\BOOKMARK [1][-]{section.6.2}{Un ruolo nuovo per l'euristica}{chapter.6}% 52
+\BOOKMARK [1][-]{section.6.3}{Test dinamico Pac-Man e Blinky}{chapter.6}% 53
+\BOOKMARK [2][-]{subsection.6.3.1}{Risultati del test}{section.6.3}% 54
+\BOOKMARK [1][-]{section.6.4}{Test dinamico Pac-Man e Ghost Team}{chapter.6}% 55
+\BOOKMARK [1][-]{section.6.5}{Considerazioni}{chapter.6}% 56
+\BOOKMARK [0][-]{chapter.7}{Una pillola\203 vale l'altra}{part.2}% 57
+\BOOKMARK [1][-]{section.7.1}{Grafo completo del labirinto}{chapter.7}% 58
+\BOOKMARK [1][-]{section.7.2}{Implementazione dell'agent}{chapter.7}% 59
+\BOOKMARK [2][-]{subsection.7.2.1}{Risultati}{section.7.2}% 60
+\BOOKMARK [1][-]{section.7.3}{Considerazioni}{chapter.7}% 61
+\BOOKMARK [1][-]{section.7.3}{Box domande n.6}{chapter.7}% 62
+\BOOKMARK [0][-]{chapter.8}{La pillola pi\371 vicina}{part.2}% 63
+\BOOKMARK [1][-]{section.8.1}{Prima\203 respira}{chapter.8}% 64
+\BOOKMARK [1][-]{section.8.2}{Implementazione BFS}{chapter.8}% 65
+\BOOKMARK [1][-]{section.8.3}{Implementazione dell'agent respiro}{chapter.8}% 66
+\BOOKMARK [2][-]{subsection.8.3.1}{Test dell'agent}{section.8.3}% 67
+\BOOKMARK [1][-]{subsection.8.3.1}{Box domande n.7}{chapter.8}% 68
+\BOOKMARK [0][-]{chapter.9}{Il respiro\203 pesato}{part.2}% 69
+\BOOKMARK [1][-]{section.9.1}{Ricercare i fantasmi}{chapter.9}% 70
+\BOOKMARK [2][-]{subsection.9.1.1}{Test e verifica}{section.9.1}% 71
+\BOOKMARK [2][-]{subsection.9.1.2}{Ulteriori applicazioni}{section.9.1}% 72
+\BOOKMARK [0][-]{chapter.10}{Conclusione}{part.2}% 73
+\BOOKMARK [-1][-]{part.3}{III Appendice}{}% 74
+\BOOKMARK [0][-]{chapter.11}{Codice MVC e fantasmi}{part.3}% 75
+\BOOKMARK [0][-]{chapter.12}{Fondamenti di latino}{part.3}% 76
+\BOOKMARK [1][-]{section.12.1}{I sostantivi}{chapter.12}% 77
+\BOOKMARK [1][-]{section.12.2}{I casi}{chapter.12}% 78
+\BOOKMARK [1][-]{section.12.3}{Le declinazioni}{chapter.12}% 79
+\BOOKMARK [2][-]{subsection.12.3.1}{Prima declinazione}{section.12.3}% 80
+\BOOKMARK [2][-]{subsection.12.3.2}{Seconda declinazione}{section.12.3}% 81
+\BOOKMARK [2][-]{subsection.12.3.3}{Terza declinazione}{section.12.3}% 82
+\BOOKMARK [2][-]{subsection.12.3.4}{Quarta declinazione}{section.12.3}% 83
+\BOOKMARK [2][-]{subsection.12.3.5}{Quinta declinazione}{section.12.3}% 84
+\BOOKMARK [2][-]{subsection.12.3.6}{Gli elementi della libreria}{section.12.3}% 85
+\BOOKMARK [0][-]{chapter.13}{Codice libreria AGRI}{part.3}% 86
+\BOOKMARK [0][-]{chapter.14}{Codice agents di Pac-Man}{part.3}% 87
+\BOOKMARK [0][-]{chapter.15}{Codice tool A*}{part.3}% 88
+\BOOKMARK [0][-]{chapter.16}{Soluzioni}{part.3}% 89
